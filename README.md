@@ -1,4 +1,4 @@
-- 👋 Hi, I'm a Neural Engineering graduate with a strong experience in decoding brain signals and translating them into commands.
+-  Hi, I'm a Neural Engineering graduate with a strong experience in decoding brain signals and translating them into commands.
 - I am passionate about AI, conciousness research and psychophysics 🧠
 
 <!---
