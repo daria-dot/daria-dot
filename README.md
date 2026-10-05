@@ -1,4 +1,4 @@
--  Hi, I'm a Neural Engineering graduate with interest in BCI and PNI technologies.
+-  Hi, I'm a Neural Engineering graduate with an interest in BCI and PNI technologies.
 - I am passionate about AI, conciousness research and psychophysics 🧠
 
 <!---
